@@ -6,7 +6,6 @@
 <br>
 Cyclist Project Roadmap.pdf - contains the introduction, business senario, and dataset link.
 <br>
-<br>
 Google DA - Case Study - Documentation.pdf - contains the documentaation of data cleaning, wrangling, exploration, analysis and data visualization in Excel, Sql and Tableau.
 <br>
 Data Analysis of bike-share offering company Cyclistic, to find the most effective marketing strategy for converting Casual riders into annual Members.
